@@ -1,13 +1,13 @@
 [
   {
-    "name": "Binance Chain",
-    "description": "Binance Smart Chain (BSC) is an independent blockchain that runs in parallel with the Binance Chain. BSC provides smart contract functionality and compatibility with the Ethereum Virtual Machine (EVM).",
-    "categories": ["defi"],
-    "link": "https://www.binance.org/en/smartChain",
+    "name": "MEXC",
+    "description": "MEXC is a user-friendly cryptocurrency exchange with support for many coins and tokens.",
+    "categories": ["exchange"],
+    "link": "https://www.mexc.com/",
     "image": {
-      "name": "binance-smart-chain",
-      "width": "70",
-      "height": "70"
+      "name": "mexc",
+      "width": "415",
+      "height": "257"
     }
   },
   {
@@ -22,47 +22,14 @@
     }
   },
   {
-    "name": "ShibaDEX",
-    "description": "ShibaDEX is a non-custodial multi-coin wallet and cross-chain decentralized exchange rolled into one app. HODL and trade SHIBA, DOGE, ETH, BTC, and thousands of other cryptocurrencies on ShibaDEX. Much Wow!",
-    "categories": ["dex", "wallet"],
-    "link": "https://shibadex.io/",
-    "image": {
-      "name": "shibadex",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
-    "name": "Binance",
-    "description": "Binance is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume. Trusted by millions worldwide, the Binance platform is dedicated to increasing the freedom of money for users, and features an unmatched portfolio of crypto products and offerings, including: trading and finance, education, data and research, social good, investment and incubation, decentralization and infrastructure solutions, and more.",
-    "categories": ["exchange"],
-    "link": "http://binance.com/",
-    "image": {
-      "name": "binance",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
     "name": "Komodo Wallet",
     "description": "Developers and enterprises use the Komodo DeFi Framework to build powerful and scalable native cross-protocol DeFi applications such as non-custodial multi-coin wallets, DEXs, and marketplaces. Popular protocols already integrated include Bitcoin, Ethereum, BSC, Litecoin, Qtum, and more. Once a protocol is integrated, support can be extended to the network coin and its tokens. Komodo Wallet, which features a non-custodial wallet with an integrated DEX, is the first reference application built with the Komodo DeFi Framework.",
     "categories": ["dex", "wallet", "development"],
-    "link": "https://komodoplatform.com/en/wallets.html",
+    "link": "https://komodoplatform.com/en/wallet/",
     "image": {
       "name": "komodo-wallet",
       "width": "180",
       "height": "46"
-    }
-  },
-  {
-    "name": "Huobi",
-    "description": "Huobi Group is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by liquidity and real-trading volume. Trusted by users in over 170 countries, the Huobi platform is dedicated to improving financial freedom and inclusive access for all users.",
-    "categories": ["exchange"],
-    "link": "https://www.huobi.com/",
-    "image": {
-      "name": "huobi",
-      "width": "70",
-      "height": "70"
     }
   },
   {
@@ -72,17 +39,6 @@
     "link": "https://coindcx.com/",
     "image": {
       "name": "CoinDCX",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
-    "name": "Bitvavo",
-    "description": "Bitvavo is the largest and most competitively priced exchange in the Netherlands where you can easily and safely buy, sell, deposit and withdraw digital currency. ",
-    "categories": ["exchange"],
-    "link": "https://bitvavo.com/",
-    "image": {
-      "name": "bitvavo",
       "width": "70",
       "height": "70"
     }
@@ -110,17 +66,6 @@
     }
   },
   {
-    "name": "Huobi Korea",
-    "description": "Established in 2018, Huobi Korea is an extension of Huobi Group, one of the world's leading blockchain company. Huobi Korea is dedicated to provide reliable and secure services as an exchange, with plans to develop a more comprehensive blockchain ecosystem, including a blockchain research institute, portal businesses and financial services. ",
-    "categories": ["exchange"],
-    "link": "https://www.huobi.co.kr/",
-    "image": {
-      "name": "huobi-korea",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
     "name": "Changelly",
     "description": "Changelly is an instant cryptocurrency exchange that allows you to exchange crypto fast and buy it with a bank card. The service provides the best crypto-to-crypto rates and supports over 140 cryptocurrencies available for exchange.",
     "categories": ["exchange"],
@@ -143,17 +88,6 @@
     }
   },
   {
-    "name": "Tokenview",
-    "description": "Tokenview Blockchain Explorer is a multi-crypto explorer to search all datas of Bitcoin, Ethereum USDT ERC20, Tron and more.",
-    "categories": ["explorer"],
-    "link": "https://kmd.tokenview.com/",
-    "image": {
-      "name": "tokenview",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
     "name": "Marmara Credit Loops (MCL)",
     "description": "Marmara Credit Loops (MCL) is the first and the only Decentralized Finance (DeFi) system in the World designed to run in real economy. The system rewards buyers and sellers when shopping with credit loops instead of cash.",
     "categories": ["smartChains", "defi"],
@@ -168,7 +102,7 @@
     "name": "Hardware Wallet Tool",
     "description": "Manage your coins from a hardware wallet device, Trezor and supported.",
     "categories": ["tools"],
-    "link": "https://pbca26.github.io/hw-kmd-wallet/",
+    "link": "https://wallet.kmd.io",
     "image": {
       "name": "komodo",
       "width": "70",
@@ -297,67 +231,12 @@
     }
   },
   {
-    "name": "NOWPayments",
-    "description": "NOWPayments is a noncustodial crypto payments service that enables businesses to accept instant online payments in 50+ cryptocurrencies, now including OKB. The platform also supports automatic coin conversion, enabling merchants to accept any cryptocurrency of their choice and receive instant payment notifications when they do.",
-    "categories": ["payment"],
-    "link": "https://nowpayments.io/",
-    "image": {
-      "name": "nowpayments",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
-    "name": "Cryptocurrency Checkout",
-    "description": "Cryptocurrency Checkout is a non-custodial payment gateway providing plugins that make accepting multiple cryptocurrencies for products and services as easy as entering your wallet addresses, and copying some code into your website or application.",
-    "categories": ["payment"],
-    "link": "https://cryptocurrencycheckout.com/",
-    "image": {
-      "name": "cryptocurrency-checkout",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
     "name": "VerusID",
     "description": "The first self-sovereign, decentralized identities on the blockchain of its kind. A VerusID is a blockchain address that can hold funds and stake Verus. Future proof and packed with advanced capabilities. In this permissionless system anyone can create a VerusID and have complete ownership.",
     "categories": ["defi"],
     "link": "https://verus.io/technology/verusID",
     "image": {
       "name": "verus",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
-    "name": "Cryptwerk.com",
-    "description": "To find a comprehensive list of merchants that accept KMD as payment, visit Cryptwerk.com.",
-    "categories": ["merchants"],
-    "link": "https://cryptwerk.com/pay-with/kmd/",
-    "image": {
-      "name": "cryptwerk",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
-    "name": "Kriptomat",
-    "description": "Kriptomat is a custodial service that enables users to buy, sell, and store Bitcoin, Ethereum, Shiba Inu, and 350+ cryptocurrencies. Users can purchase crypto instantly via credit card, bank account, and all major EUR payment methods.",
-    "categories": ["exchange", "fiat", "wallet"],
-    "link": "https://kriptomat.io/cryptocurrencies/komodo/how-to-buy-komodo/",
-    "image": {
-      "name": "kriptomat",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
-    "name": "StealthEX",
-    "description": "StealthEX is a user-friendly service providing instant & non-custodial cryptocurrency exchanges. It's free from registration and the platform does not store users' funds. 400+ cryptocurrencies are available for easy exchanges.",
-    "categories": ["exchange"],
-    "link": "https://stealthex.io/",
-    "image": {
-      "name": "stealthex",
       "width": "70",
       "height": "70"
     }
